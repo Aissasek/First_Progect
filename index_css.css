@@ -211,7 +211,7 @@ button:hover{
   
 
 }
-/* @media (max-width: 768px) {
+@media (max-width: 768px) {
     .div1 {
         flex-direction: column;
         align-items: flex-start;
@@ -295,4 +295,4 @@ button:hover{
     .img1, .img3 {
         height: auto;
     }
-} */
+} 
